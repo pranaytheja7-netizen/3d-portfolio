@@ -1,5 +1,7 @@
 Pranay Theja Bandarkanti — Portfolio
+
 A personal portfolio website built with pure HTML, CSS, and WebGL. Features a animated nebula background, bento-grid layout, and sections for projects, skills, education, and contact.
+
 🌐 Live Preview
 > Deploy on GitHub Pages, Vercel, or Netlify — just upload `index.html`.
 ✨ Features
